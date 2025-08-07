@@ -1,16 +1,14 @@
 ## Repository name
-Your repostiory should be named something like `async-final-project-color-name`
-Example: `async-final-project-teal-Anas`
+async-final-project-purple-Eric
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+Airlines Flights Data (https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data/data)
 
 ## Why did I chose this dataset?
-
-[Placeholder for answer]
+I chose the Airlines Flights Data because I recently came back from a few trips where I had to take the plane. I was fascinated by the intricate systems pilots and other employees have to be familiar with at the airport. I am interested in learning more about the data they have to know about on a daily basis.
 
 ## Progress
-- [ ] Picked dataset
+- [x] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
