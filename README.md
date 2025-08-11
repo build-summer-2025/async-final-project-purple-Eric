@@ -15,13 +15,13 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: What are the airlines in the dataset, accompanied by their frequencies?
-  - Answer: There are a total of 6 airlines in the dataset (Vistara - 127859, Air_India - 80892, Indigo - 43120, GO_FIRST - 23173, AirAsia - 16098, SpiceJet - 9011)
+- [x] Question 1: What are the airlines in the dataset, accompanied by their frequencies?
+  - Answer: There are a total of 6 airlines in the dataset (Vistara - 127859, Air_India - 80892, Indigo - 43120, GO_FIRST - 23173, AirAsia - 16098, SpiceJet - 9011).
   - Visualization: ![Q1 Visualization](/images/output1.png)
 
-- [ ] Question 2: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+- [x] Question 2: What time in the day are there the least departures?
+  - Answer: Late Night
+  - Visualization: ![Q2 Visualization](/images/output2.png)
 
 - [ ] Question 3: [Brief description of the task]
   - Answer: [Placeholder for answer]
