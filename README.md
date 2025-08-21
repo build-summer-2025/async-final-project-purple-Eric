@@ -23,13 +23,13 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
   - Answer: Late Night
   - Visualization: ![Q2 Visualization](/images/output2.png)
 
-- [ ] Question 3: What cities are visited the most?
+- [x] Question 3: What cities are visited the most?
   - Answer: Mumbai and Delhi
   - Visualization: ![Q3 Visualization](/images/output3.png)
 
-- [ ] Question 4: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+- [x] Question 4: Does price vary with airlines?
+  - Answer: Yes, Vistara and Air India are the more expensive airlines, which are full-service-carriers (FSCs). The other airlines are considered low-cost-carriers (LCCs).
+  - Visualization: ![Q4 Visualization](/images/output4.png)
 
 - [ ] Question 5: [Brief description of the task]
   - Answer: [Placeholder for answer]
