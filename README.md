@@ -31,9 +31,9 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
   - Answer: Yes, Vistara and Air India are the more expensive airlines, which are full-service-carriers (FSCs). The other airlines are considered low-cost-carriers (LCCs).
   - Visualization: ![Q4 Visualization](/images/output4.png)
 
-- [ ] Question 5: Does price vary with departure time?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [x] Question 5: Does price vary with departure time?
+  - Answer: Yes, the analyzed data suggests that there is a relationship between departure times and pricing of flights. It appears that the cheapest flights have their departure time at night for LCCs, and morning-afternoon for FSCs. The most expensive flights have a departure time in the morning for LCCs, while the most expensive FSC flights generally have a departure time at night.
+  - Visualization: ![Q5 Visualization](/images/output5.png) ![Q5 Visualization](/images/output52.png)
 
 - [ ] Question 6: [Brief description of the task]
   - Answer: [Placeholder for answer]
