@@ -31,7 +31,7 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
   - Answer: Yes, Vistara and Air India are the more expensive airlines, which are full-service-carriers (FSCs). The other airlines are considered low-cost-carriers (LCCs).
   - Visualization: ![Q4 Visualization](/images/output4.png)
 
-- [ ] Question 5: [Brief description of the task]
+- [ ] Question 5: Does price vary with departure time?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
