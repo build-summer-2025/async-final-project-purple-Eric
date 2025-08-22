@@ -35,9 +35,9 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
   - Answer: Yes, the analyzed data suggests that there is a relationship between departure times and pricing of flights. It appears that the cheapest flights have their departure time at night for LCCs, and morning-afternoon for FSCs. The most expensive flights have a departure time in the morning for LCCs, while the most expensive FSC flights generally have a departure time at night.
   - Visualization: ![Q5 Visualization](/images/output5.png) ![Q5 Visualization](/images/output52.png)
 
-- [ ] Question 6: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+- [x] Question 6: Does price vary with arrival time?
+  - Answer: Yes, the analyzed data suggests that there is a relationship between arrival times and the pricing of flights as well. It appears that the cheapest flights have an arrival time in the morning and the most expensive flights have an arrival time in the evening.
+  - Visualization: ![Q6 Visualization](/images/output6.png) ![Q6 Visualization](/images/output62.png)
 
 - [ ] Question 7: [Brief description of the task]
   - Answer: [Placeholder for answer]
