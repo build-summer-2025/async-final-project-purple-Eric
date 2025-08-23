@@ -39,9 +39,9 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
   - Answer: Yes, the analyzed data suggests that there is a relationship between arrival times and the pricing of flights as well. It appears that the cheapest flights have an arrival time in the morning and the most expensive flights have an arrival time in the evening.
   - Visualization: ![Q6 Visualization](/images/output6.png) ![Q6 Visualization](/images/output62.png)
 
-- [ ] Question 7: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+- [x] Question 7: Does price change based on the source city?
+  - Answer: Yes, the data suggests there is somewhat of a relationship between where flights take off from and their price. It appears that the cheapest flights for LCCs come from Chennai and Hyderabad. It looks like the cheapest flights come from Delhi and Hyderabad for FSCs. It looks like the most expensive flights generally come from Kolkata.
+  - Visualization: ![Q7 Visualization](/images/output7.png) ![Q7 Visualization](/images/output72.png)
 
 - [ ] Question 8: [Brief description of the task]
   - Answer: [Placeholder for answer]
