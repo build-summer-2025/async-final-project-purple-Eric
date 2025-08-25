@@ -43,9 +43,9 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
   - Answer: Yes, the data suggests there is somewhat of a relationship between where flights take off from and their price. It appears that the cheapest flights for LCCs come from Chennai and Hyderabad. It looks like the cheapest flights come from Delhi and Hyderabad for FSCs. It looks like the most expensive flights generally come from Kolkata.
   - Visualization: ![Q7 Visualization](/images/output7.png) ![Q7 Visualization](/images/output72.png)
 
-- [ ] Question 8: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [x] Question 8: Does price change based on the destination city?
+  - Answer: Yes, the data suggests that flights arriving at certain cities are more expensive than others. It appears that flights going to Chennai or Hyderabad are the cheapest, while flights going to Kolkata or Bangalore are most expensive.
+  - Visualization: ![Q8 Visualization](/images/output8.png) ![Q8 Visualization](/images/output82.png)
 
 - [ ] Question 9: [Brief description of the task]
   - Answer: [Placeholder for answer]
